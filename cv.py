@@ -31,6 +31,7 @@ st.write("• Cartographie")
 st.write("• SIG (QGIS)")
 st.write("• Bases en Python")
 st.write("• Suite bureautique")
+st.write("• Développement d’interfaces web simples avec Streamlit")
 
 st.markdown("---")
 
